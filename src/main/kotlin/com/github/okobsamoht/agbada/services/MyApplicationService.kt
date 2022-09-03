@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.okobsamoht.agbada.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.okobsamoht.agbada.MyBundle
 
 class MyApplicationService {
 
