@@ -124,10 +124,10 @@
       "hoverMaskColor": "#444444",
       "inactiveColoredFileBackground": "#222222",
       "inactiveMaskColor": "#333333",
-      "inactiveUnderlineColor": "#444444",
+      "inactiveUnderlineColor": "#cccccc",
       "selectedBackground": "#222222",
       "selectedForeground": "#cccccc",
-      "underlineColor": "#444444",
+      "underlineColor": "#cccccc",
       "underlinedTabBackground": "#222222",
       "hoverBackground": "#444444"
     },
@@ -238,7 +238,7 @@
       "background": "#222222",
       "failedColor": "#bf616a",
       "failedEndColor": "#bf616a",
-      "indeterminateEndColor": "#cccccc",
+      "indeterminateEndColor": "#999999",
       "indeterminateStartColor": "#333333",
       "passedColor": "#a3be8c",
       "passedEndColor": "#a3be8c",
@@ -322,8 +322,8 @@
       "focus": "#333333",
       "focusColor": "#333333",
       "hoverColor": "#444444",
-      "underlineColor": "#444444",
-      "disabledUnderlineColor": "#242424"
+      "underlineColor": "#cccccc",
+      "disabledUnderlineColor": "#333333"
     },
     "Table": {
       "background": "#222222",
@@ -364,8 +364,8 @@
     },
     "ToolWindow": {
       "Button": {
-        "hoverBackground": "#444444",
-        "selectedBackground": "#444444",
+        "hoverBackground": "#555555",
+        "selectedBackground": "#555555",
         "selectedForeground": "#cccccc"
       },
       "Header": {
@@ -390,9 +390,9 @@
       }
     },
     "DefaultTabs": {
-      "underlineColor": "#444444",
+      "underlineColor": "#cccccc",
       "underlinedTabBackground": "#444444",
-      "inactiveUnderlineColor": "#444444",
+      "inactiveUnderlineColor": "#cccccc",
       "background": "#444444"
     },
     "ValidationTooltip": {
